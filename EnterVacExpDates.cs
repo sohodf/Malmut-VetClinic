@@ -35,11 +35,11 @@ namespace Vet_Clinic
 
                 CrystalDecisions.Shared.ParameterField parameterField;
                 parameterField = report.ParameterFields["startDate"];
-                parameterField.CurrentValues.AddValue(dateTimePicker1.Value);
+                parameterField.CurrentValues.AddValue(dateTimePicker1.Value.Date);
 
                 CrystalDecisions.Shared.ParameterField parameterField2;
                 parameterField2 = report.ParameterFields["endDate"];
-                parameterField2.CurrentValues.AddValue(dateTimePicker2.Value);
+                parameterField2.CurrentValues.AddValue(dateTimePicker2.Value.Date);
 
                 VaccineExpRpt VE = new VaccineExpRpt();
 
