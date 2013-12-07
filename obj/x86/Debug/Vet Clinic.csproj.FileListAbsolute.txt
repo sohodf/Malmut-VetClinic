@@ -538,3 +538,14 @@ D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Cl
 D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
 D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.manifest
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.application
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.pdb
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\he-IL\Vet Clinic.resources.dll
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\MySql.Data.dll
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\MySql.Data.Entity.dll
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\MySql.Web.dll
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe.manifest
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.application

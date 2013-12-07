@@ -2538,6 +2538,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Start";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Start_FormClosed);
+            this.Load += new System.EventHandler(this.Start_Load);
             this.tabPage4.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

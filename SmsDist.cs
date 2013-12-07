@@ -80,16 +80,18 @@ namespace Vet_Clinic
             vetclinicDataSet.EnforceConstraints = false;
             dt = new vetclinicDataSet.GetDataForReminderDataTable();
 
+            DateTime from = dateTimePicker1.Value.Date;
+            DateTime to = dateTimePicker2.Value.Date;
             try
             {
-                getDataForReminderTableAdapter.Fill(dt, dateTimePicker1.Value, dateTimePicker2.Value);  
+                getDataForReminderTableAdapter.Fill(dt, from, to); 
             }
             catch(Exception somethingHappenned)
             {
                 //
             }
 
-            label7.Text = dt.Count.ToString();
+            label7.Text = dt.Rows.Count.ToString();
 
             if (label5.Text == "טוען נתונים...")
                 label8.Text = "אנא המתן עד לטעינת כמות ההודעות שנותרה ובחר שוב תאריך סיום";

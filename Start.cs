@@ -2134,5 +2134,10 @@ namespace Project1
             a.Show();
         }
 
+        private void Start_Load(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }

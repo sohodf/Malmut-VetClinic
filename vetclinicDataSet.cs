@@ -21,6 +21,10 @@
 }
 
 namespace Vet_Clinic.vetclinicDataSetTableAdapters {
+    partial class GetDataForReminderTableAdapter
+    {
+    }
+
     partial class tblproductpurchasedTableAdapter
     {
     }
