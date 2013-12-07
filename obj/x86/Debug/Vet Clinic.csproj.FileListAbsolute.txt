@@ -1,0 +1,540 @@
+C:\Users\David\Desktop\My Dropbox\לימודים\פרוייקט\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe
+C:\Users\David\Desktop\My Dropbox\לימודים\פרוייקט\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.pdb
+C:\Users\David\Desktop\My Dropbox\לימודים\פרוייקט\Project\Vet Clinic\Vet Clinic\bin\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\My Dropbox\לימודים\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\My Dropbox\לימודים\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+C:\Users\David\Desktop\My Dropbox\לימודים\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.resources
+C:\Users\David\Desktop\My Dropbox\לימודים\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
+C:\Users\David\Desktop\My Dropbox\לימודים\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Desktop\My Dropbox\לימודים\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Desktop\My Dropbox\לימודים\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\My Dropbox\לימודים\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+C:\Users\David\Desktop\My Dropbox\לימודים\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+C:\Dropbox\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+C:\Dropbox\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+C:\Dropbox\פרוייקט\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe
+C:\Dropbox\פרוייקט\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.pdb
+C:\Dropbox\פרוייקט\Project\Vet Clinic\Vet Clinic\bin\Debug\he-IL\Vet Clinic.resources.dll
+C:\Dropbox\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+C:\Dropbox\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.resources
+C:\Dropbox\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
+C:\Dropbox\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\פרוייקט\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.pdb
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.config
+C:\Dropbox\פרוייקט\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.config
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.config
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.pdb
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\he-IL\Vet Clinic.resources.dll
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\My Dropbox\לימודים\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.config
+C:\Users\David\Desktop\My Dropbox\לימודים\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+C:\Users\David\Desktop\My Dropbox\לימודים\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+C:\Users\David\Desktop\My Dropbox\לימודים\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe
+C:\Users\David\Desktop\My Dropbox\לימודים\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.pdb
+C:\Users\David\Desktop\My Dropbox\לימודים\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\My Dropbox\לימודים\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\My Dropbox\לימודים\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+C:\Users\David\Desktop\My Dropbox\לימודים\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.resources
+C:\Users\David\Desktop\My Dropbox\לימודים\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
+C:\Users\David\Desktop\My Dropbox\לימודים\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Desktop\My Dropbox\לימודים\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Desktop\My Dropbox\לימודים\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.AddAnimal.resources
+C:\Dropbox\Project (1)\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.config
+C:\Dropbox\Project (1)\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+C:\Dropbox\Project (1)\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+C:\Dropbox\Project (1)\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe
+C:\Dropbox\Project (1)\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.pdb
+C:\Dropbox\Project (1)\Project\Vet Clinic\Vet Clinic\bin\Debug\he-IL\Vet Clinic.resources.dll
+C:\Dropbox\Project (1)\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Project (1)\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.AddAnimal.resources
+C:\Dropbox\Project (1)\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+C:\Dropbox\Project (1)\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.resources
+C:\Dropbox\Project (1)\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
+C:\Dropbox\Project (1)\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\Project (1)\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\Project (1)\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
+C:\Dropbox\Project (1)\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.editAnimal.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.AddAnimal.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.editAnimal.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.addCustomer.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.config
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.manifest
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.application
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe.manifest
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.application
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.viewVac.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.manifest
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.application
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.pdb
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.AddAnimal.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.addCustomer.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.editAnimal.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.viewVac.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe.manifest
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.application
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.enterVac2.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.lastVacs.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.manifest
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.application
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.addCustomer.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.editAnimal.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.enterVac2.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.lastVacs.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.viewVac.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe.manifest
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.application
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.exe.config
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.exe.manifest
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.application
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.exe
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.pdb
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\he-IL\Vet Clinic.resources.dll
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.AddAnimal.resources
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.addCustomer.resources
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.editAnimal.resources
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.enterVac2.resources
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.lastVacs.resources
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Project1.Start.resources
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.viewVac.resources
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.exe.manifest
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.application
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.exe.config
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.exe.manifest
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.application
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.exe
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.pdb
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.AddAnimal.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.addCustomer.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.editAnimal.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.enterVac2.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.lastVacs.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Project1.Start.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.viewVac.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.exe.manifest
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.application
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.DogLicense.resources
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.DogLicense.resources
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\RdlCompile.cache
+C:\Dropbox\Project\Project\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\RdlCompile.compiled
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.exe.config
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.exe.manifest
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.application
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.exe
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.pdb
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.AddAnimal.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.addCustomer.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.DogLicense.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.editAnimal.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.enterVac2.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.lastVacs.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Project1.Start.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.viewVac.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.exe.manifest
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.application
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.exe.config
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.exe.manifest
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.application
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.exe
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.pdb
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\he-IL\Vet Clinic.resources.dll
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.AddAnimal.resources
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.addCustomer.resources
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.DogLicense.resources
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.editAnimal.resources
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.enterVac2.resources
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.lastVacs.resources
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Project1.Start.resources
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.viewVac.resources
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.exe.manifest
+C:\Dropbox\Project\Project\Vet Clinic 29.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.application
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.exe.config
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.exe.manifest
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.application
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.exe
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\Vet Clinic.pdb
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\bin\Debug\he-IL\Vet Clinic.resources.dll
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.AddAnimal.resources
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.addCustomer.resources
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.DogLicense.resources
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.editAnimal.resources
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.enterVac2.resources
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.lastVacs.resources
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Project1.Start.resources
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet_Clinic.viewVac.resources
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.exe.manifest
+C:\Dropbox\Project\Project\Vet Clinic 30.11\Vet Clinic 29.11\Vet Clinic Ass Saved\Vet Clinic\obj\x86\Debug\Vet Clinic.application
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.DogLicense.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.kalevetRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.DogLicense.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.enterVac2.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.kalevetRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.lastVacs.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.licenseRpt.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterVacExpDates.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.VaccineExpRpt.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.config
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.manifest
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.application
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.pdb
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\he-IL\Vet Clinic.resources.dll
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.AddAnimal.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.addCustomer.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.DogLicense.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.editAnimal.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.enterVac2.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterVacExpDates.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.kalevetRpt.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.lastVacs.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.licenseRpt.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.VaccineExpRpt.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.viewVac.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe.manifest
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.application
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterVacExpDates.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.licenseRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.VaccineExpRpt.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.changeIns.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.AnesthesiaRpt.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CastrationRpt.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EutenasiaemptyRpt.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.AnesthesiaRpt.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CastrationRpt.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.changeIns.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.DogLicense.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterVacExpDates.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EutenasiaemptyRpt.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.kalevetRpt.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.licenseRpt.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.VaccineExpRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.AnesthesiaRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CastrationRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.changeIns.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EutenasiaemptyRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.healthPackageF.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.healthPackageF.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.MedFileRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.MedFileRpt.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.config
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.manifest
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.application
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.pdb
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\bin\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.AddAnimal.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.addCustomer.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.AnesthesiaRpt.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CastrationRpt.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.changeIns.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.DogLicense.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.editAnimal.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.enterVac2.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterVacExpDates.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EutenasiaemptyRpt.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.healthPackageF.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.kalevetRpt.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.lastVacs.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.licenseRpt.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ManageVaccines.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.MedFileRpt.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.VaccineExpRpt.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.viewVac.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe.manifest
+C:\Users\David\Desktop\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.application
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ManageVaccines.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterRabiesDates.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterRabiesDates.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ManageVaccines.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.AnesthesiaRpt.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CastrationRpt.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.changeIns.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterRabiesDates.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EutenasiaemptyRpt.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.healthPackageF.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ManageVaccines.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.MedFileRpt.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CreateNot.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CreateNot.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CreateNot.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.testClass.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ManageProduct.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ManageProduct.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.PurchaseDateRpt.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CustomerPurchaseRpt.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CustomerPurchaseRpt.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ManageProduct.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.PurchaseDateRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CustomerPurchaseRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.PurchaseDateRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.SMSSend.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.RemainingSms.resources
+C:\Documents and Settings\BAKARA\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.SMSSend.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterSMSDate.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterSMSDate.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.SMSSend.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.SmsDist.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.SmsDist.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.DataScripts.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.DataScripts.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ViewResults.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ViewResults.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EditCostumer.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EditCostumer.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.BloodResults.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.BloodResults.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.RamatYohananRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.RamatYohananRpt.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.TreatmentHist.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.TreatmentHist.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.BloodResults.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.DataScripts.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EditCostumer.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterSMSDate.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CreateNot.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CustomerPurchaseRpt.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.RamatYohananRpt.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.TreatmentHist.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ViewResults.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ManageProduct.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterRabiesDates.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.healthPackageF.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ManageVaccines.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.MedFileRpt.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.PurchaseDateRpt.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.SmsDist.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.SMSSend.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.config
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.manifest
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.application
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.pdb
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\bin\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.AddAnimal.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.addCustomer.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.AnesthesiaRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.BloodResults.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CastrationRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.changeIns.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.DataScripts.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EditCostumer.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterSMSDate.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CreateNot.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CustomerPurchaseRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.DogLicense.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.editAnimal.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.RamatYohananRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.TreatmentHist.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ViewResults.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ManageProduct.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterRabiesDates.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.enterVac2.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterVacExpDates.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EutenasiaemptyRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.healthPackageF.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.kalevetRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.lastVacs.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.licenseRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ManageVaccines.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.MedFileRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.PurchaseDateRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.SmsDist.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.SMSSend.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.testClass.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.VaccineExpRpt.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.viewVac.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe.manifest
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic 20.4.2012\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.application
+C:\Users\David\Desktop\Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.about.resources
+C:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.about.resources
+C:\Users\David\Desktop\My Dropbox\University\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.about.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.config
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.about.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.AddAnimal.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.addCustomer.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.AnesthesiaRpt.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.BloodResults.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CastrationRpt.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.changeIns.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.DataScripts.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EditCostumer.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterSMSDate.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CreateNot.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CustomerPurchaseRpt.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.DogLicense.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.editAnimal.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.RamatYohananRpt.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.TreatmentHist.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ViewResults.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ManageProduct.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterRabiesDates.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.enterVac2.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterVacExpDates.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EutenasiaemptyRpt.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.healthPackageF.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.kalevetRpt.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.lastVacs.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.licenseRpt.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ManageVaccines.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.MedFileRpt.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.PurchaseDateRpt.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.SmsDist.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.SMSSend.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.VaccineExpRpt.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.viewVac.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dfogelx\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.config
+E:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+E:\Dropbox\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\Vet Clinic.exe.config
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.pdb
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.about.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.AddAnimal.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.addCustomer.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.AnesthesiaRpt.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.BloodResults.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CastrationRpt.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.changeIns.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.DataScripts.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EditCostumer.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterSMSDate.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CreateNot.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.CustomerPurchaseRpt.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.DogLicense.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.editAnimal.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.RamatYohananRpt.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.TreatmentHist.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ViewResults.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ManageProduct.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterRabiesDates.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.enterVac2.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EnterVacExpDates.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.EutenasiaemptyRpt.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.healthPackageF.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.kalevetRpt.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.lastVacs.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.licenseRpt.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.ManageVaccines.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.MedFileRpt.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.PurchaseDateRpt.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.SmsDist.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.SMSSend.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.VaccineExpRpt.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet_Clinic.viewVac.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Project1.Start.he-IL.resources
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\GenerateResource.write.1.tlog

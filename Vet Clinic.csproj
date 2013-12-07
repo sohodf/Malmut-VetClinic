@@ -1,0 +1,1062 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4079ED12-90D2-4885-89AD-D0FF6E9A025A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Vet_Clinic</RootNamespace>
+    <AssemblyName>Vet Clinic</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\David\Desktop\My Dropbox\תוכנה לניהול מרפאה\מלמוט 4.0.2\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>8</ApplicationRevision>
+    <ApplicationVersion>3.6.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>8764AB0809552B6B0DEEA4444A3BAFC641156028</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Vet Clinic_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.4.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="about.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="about.Designer.cs">
+      <DependentUpon>about.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAnimal.Designer.cs">
+      <DependentUpon>AddAnimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addCustomer.Designer.cs">
+      <DependentUpon>addCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="anesthesia.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>anesthesia.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AnesthesiaRpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnesthesiaRpt.Designer.cs">
+      <DependentUpon>AnesthesiaRpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BloodResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BloodResults.Designer.cs">
+      <DependentUpon>BloodResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CartItem.cs" />
+    <Compile Include="castration.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>castration.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CastrationRpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CastrationRpt.Designer.cs">
+      <DependentUpon>CastrationRpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="changeIns.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changeIns.Designer.cs">
+      <DependentUpon>changeIns.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataScripts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataScripts.Designer.cs">
+      <DependentUpon>DataScripts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditCostumer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditCostumer.Designer.cs">
+      <DependentUpon>EditCostumer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnterSMSDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterSMSDate.Designer.cs">
+      <DependentUpon>EnterSMSDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateNot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateNot.Designer.cs">
+      <DependentUpon>CreateNot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerPurchase.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CustomerPurchase.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustomerPurchaseRpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerPurchaseRpt.Designer.cs">
+      <DependentUpon>CustomerPurchaseRpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DogLicense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DogLicense.Designer.cs">
+      <DependentUpon>DogLicense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dogLicense1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dogLicense.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RamatYohanan.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RamatYohanan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RamatYohananRpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RamatYohananRpt.Designer.cs">
+      <DependentUpon>RamatYohananRpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TreatmentHist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TreatmentHist.Designer.cs">
+      <DependentUpon>TreatmentHist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewResults.Designer.cs">
+      <DependentUpon>ViewResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageProduct.Designer.cs">
+      <DependentUpon>ManageProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnterRabiesDates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterRabiesDates.Designer.cs">
+      <DependentUpon>EnterRabiesDates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enterVac2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enterVac2.Designer.cs">
+      <DependentUpon>enterVac2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnterVacExpDates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterVacExpDates.Designer.cs">
+      <DependentUpon>EnterVacExpDates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eutenasiaempty.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>eutenasiaempty.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EutenasiaemptyRpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EutenasiaemptyRpt.Designer.cs">
+      <DependentUpon>EutenasiaemptyRpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="healthPackage2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>healthPackage2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="healthPackageF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="healthPackageF.Designer.cs">
+      <DependentUpon>healthPackageF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kalevetRpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kalevetRpt.Designer.cs">
+      <DependentUpon>kalevetRpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lastVacs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lastVacs.Designer.cs">
+      <DependentUpon>lastVacs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="licenseRpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="licenseRpt.Designer.cs">
+      <DependentUpon>licenseRpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageVaccines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageVaccines.Designer.cs">
+      <DependentUpon>ManageVaccines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MedFile.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MedFile.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MedFileRpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MedFileRpt.Designer.cs">
+      <DependentUpon>MedFileRpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PurchaseDateRpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PurchaseDateRpt.Designer.cs">
+      <DependentUpon>PurchaseDateRpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PurchaseDates.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PurchaseDates.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rabies.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rabies.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RabiesAta.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RabiesAta.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SmsDist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmsDist.Designer.cs">
+      <DependentUpon>SmsDist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMSSend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SMSSend.Designer.cs">
+      <DependentUpon>SMSSend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utils.cs" />
+    <Compile Include="editAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editAnimal.Designer.cs">
+      <DependentUpon>editAnimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start.designer.cs">
+      <DependentUpon>Start.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VaccineExp.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VaccineExp.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="VaccineExpRpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VaccineExpRpt.Designer.cs">
+      <DependentUpon>VaccineExpRpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vetclinicDataSet.cs">
+      <DependentUpon>vetclinicDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="vetclinicDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>vetclinicDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="viewVac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewVac.Designer.cs">
+      <DependentUpon>viewVac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\SendSmsWS\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="about.resx">
+      <DependentUpon>about.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAnimal.resx">
+      <DependentUpon>AddAnimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addCustomer.resx">
+      <DependentUpon>addCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="anesthesia.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>anesthesia.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnesthesiaRpt.resx">
+      <DependentUpon>AnesthesiaRpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BloodResults.resx">
+      <DependentUpon>BloodResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="castration.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>castration.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CastrationRpt.resx">
+      <DependentUpon>CastrationRpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changeIns.resx">
+      <DependentUpon>changeIns.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataScripts.resx">
+      <DependentUpon>DataScripts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditCostumer.resx">
+      <DependentUpon>EditCostumer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterSMSDate.resx">
+      <DependentUpon>EnterSMSDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateNot.resx">
+      <DependentUpon>CreateNot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerPurchase.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CustomerPurchase.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerPurchaseRpt.resx">
+      <DependentUpon>CustomerPurchaseRpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DogLicense.resx">
+      <DependentUpon>DogLicense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dogLicense.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>dogLicense1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editAnimal.resx">
+      <DependentUpon>editAnimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RamatYohanan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RamatYohanan.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RamatYohananRpt.resx">
+      <DependentUpon>RamatYohananRpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TreatmentHist.resx">
+      <DependentUpon>TreatmentHist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewResults.resx">
+      <DependentUpon>ViewResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageProduct.resx">
+      <DependentUpon>ManageProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterRabiesDates.resx">
+      <DependentUpon>EnterRabiesDates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enterVac2.resx">
+      <DependentUpon>enterVac2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterVacExpDates.resx">
+      <DependentUpon>EnterVacExpDates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eutenasiaempty.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>eutenasiaempty.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EutenasiaemptyRpt.resx">
+      <DependentUpon>EutenasiaemptyRpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="healthPackage2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>healthPackage2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="healthPackageF.resx">
+      <DependentUpon>healthPackageF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kalevetRpt.resx">
+      <DependentUpon>kalevetRpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lastVacs.resx">
+      <DependentUpon>lastVacs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="licenseRpt.resx">
+      <DependentUpon>licenseRpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageVaccines.resx">
+      <DependentUpon>ManageVaccines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MedFile.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MedFile.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MedFileRpt.resx">
+      <DependentUpon>MedFileRpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="PurchaseDateRpt.resx">
+      <DependentUpon>PurchaseDateRpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PurchaseDates.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PurchaseDates.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rabies.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rabies.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RabiesAta.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RabiesAta.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SmsDist.resx">
+      <DependentUpon>SmsDist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SMSSend.resx">
+      <DependentUpon>SMSSend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start.he-IL.resx">
+      <DependentUpon>Start.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start.resx">
+      <DependentUpon>Start.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VaccineExp.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>VaccineExp.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VaccineExpRpt.resx">
+      <DependentUpon>VaccineExpRpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewVac.resx">
+      <DependentUpon>viewVac.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Vet Clinic_TemporaryKey.pfx" />
+    <None Include="vetclinicDataSet.xsc">
+      <DependentUpon>vetclinicDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="vetclinicDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>vetclinicDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="vetclinicDataSet.xss">
+      <DependentUpon>vetclinicDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Web References\SendSmsWS\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\SendSmsWS\Result.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\SendSmsWS\ResultWithSum.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\SendSmsWS\SendSmsWS.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21211.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pows.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\120px-Red_X.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\רישיון כלבת ריק.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="CrystalDecisions.CrystalReports.Engine">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ClientDoc">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommLayer">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommonControls">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommonObjectModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.Controllers">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CubeDefModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.DataDefModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.DataSetConversion">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ObjectFactory">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.Prompting">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ReportDefModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.XmlSerialize">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportSource">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.Shared">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.Windows.Forms">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="FlashControlV71">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="he-IL\Vet Clinic.resources">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Satellite</FileType>
+    </PublishFile>
+    <PublishFile Include="log4net">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.VisualBasic.PowerPacks.Vs">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="MySql.Data">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="ShockwaveFlashObjects">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="stdole">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warning-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://www.simplesms.co.il/webservice/">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\SendSmsWS\</RelPath>
+      <UpdateFromURL>http://www.simplesms.co.il/webservice/</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>Vet_Clinic_SendSmsWS_SendSmsWS</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web References\SendSmsWS\SendSmsWS.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\לקוח חדש-01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\חיה חדשה-01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\סל קניות-01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\נקה-01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\שמירה-01-01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\הסרת התראה-01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\בטל בחירה-01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\איך סימן שאלה-01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\עריכתפרטים.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\חבילת בריאות.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\הזנת חיסונים.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\חבילת בריאות2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\הזנת חיסונים האמיתי.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\חיסונים חדשים.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\שמירה ארוך.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\סל קניות ארוך.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\נקה ארוך.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\עריכת מוצר.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2עריכת מוצר.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\הוספת מוצר.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\דוח ללקוח.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\מחיקת מוצר.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\סל קניות בינוני.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2הוספת מוצר.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\בטל בחירה בינוני.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\הוסף לסל.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2הוסף לסל.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\שולם.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\הסרה.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\היסטוריה.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\הוספת בדיקות.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\צפיה בבדיקות.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\צפיה ברנטגן.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2הוספת בדיקות.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\הוספת רנטגן.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2הוספת רנטגן.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3הוספת בדיקות.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\שליחת SMS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\בטל SMS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\שמירה סגול.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\בטל כתום.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\רקע מפוספס בהיר.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\רקע רגל.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\רקע רגל בהיר.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\היסטוריה1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\עריכת טיפול.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\דף אודות.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\דף אודות2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\לוגו.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2לוגו.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\הוספת חיה.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
