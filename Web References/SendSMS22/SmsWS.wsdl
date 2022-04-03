@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="https://www.simplesms.co.il/webservice" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="https://www.simplesms.co.il/webservice" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="https://www.simplesms.co.il/webservice">
+      <s:element name="SendSms">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="EncryptPassword" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Subscribers" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="SenderName" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="DeliveryDelayInMinutes" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="ExpirationDelayInMinutes" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="SendId" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SendSmsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SendSmsResult" type="tns:Result" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Result">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="result" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Messages" type="tns:ArrayOfMessage" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfMessage">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Message" nillable="true" type="tns:Message" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Message">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Cli" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Status" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Operator" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Text" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CreateDate" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="SendId" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="BulkSms">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="EncryptPassword" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="SenderName" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="DeliveryDelayInMinutes" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="ExpirationDelayInMinutes" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="SendId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="messages" type="tns:ArrayOfMessage1" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfMessage1">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="message" nillable="true" type="tns:message" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="message">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="MsgId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Cli" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Text" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="BulkSmsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="BulkSmsResult" type="tns:Result" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetMessagesDeliveryBySendId">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="EncryptPassword" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="SendId" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetMessagesDeliveryBySendIdResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetMessagesDeliveryBySendIdResult" type="tns:Result" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddBlackList">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="EncryptPassword" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Subscribers" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddBlackListResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AddBlackListResult" type="tns:BlacklistResultStatus" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="BlacklistResultStatus">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="result" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Items" type="tns:ArrayOfBlacklistStatus" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfBlacklistStatus">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="BlacklistStatus" nillable="true" type="tns:BlacklistStatus" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="BlacklistStatus">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Cli" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Status" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="InsertDate" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetIncomingMessages">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="EncryptPassword" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="SendDate" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetIncomingMessagesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetIncomingMessagesResult" type="tns:IncomingResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="IncomingResult">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="result" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Items" type="tns:ArrayOfIncomingMsg" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfIncomingMsg">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="IncomingMsg" nillable="true" type="tns:IncomingMsg" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="IncomingMsg">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="From" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="To" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TextMsg" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="ts" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetIncomingMessagesByCli">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="EncryptPassword" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="SendDate" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Subscriber" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetIncomingMessagesByCliResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetIncomingMessagesByCliResult" type="tns:IncomingResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetMessagesCredit">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="EncryptPassword" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetMessagesCreditResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetMessagesCreditResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetBlacklist">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="EncryptPassword" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="InLastXDays" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetBlacklistResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetBlacklistResult" type="tns:BlacklistResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="BlacklistResult">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="result" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Items" type="tns:ArrayOfBlacklistItems" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfBlacklistItems">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="BlacklistItems" nillable="true" type="tns:BlacklistItems" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="BlacklistItems">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Cli" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="InsertDate" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Result" nillable="true" type="tns:Result" />
+      <s:element name="BlacklistResultStatus" nillable="true" type="tns:BlacklistResultStatus" />
+      <s:element name="IncomingResult" nillable="true" type="tns:IncomingResult" />
+      <s:element name="string" nillable="true" type="s:string" />
+      <s:element name="BlacklistResult" nillable="true" type="tns:BlacklistResult" />
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="SendSmsSoapIn">
+    <wsdl:part name="parameters" element="tns:SendSms" />
+  </wsdl:message>
+  <wsdl:message name="SendSmsSoapOut">
+    <wsdl:part name="parameters" element="tns:SendSmsResponse" />
+  </wsdl:message>
+  <wsdl:message name="BulkSmsSoapIn">
+    <wsdl:part name="parameters" element="tns:BulkSms" />
+  </wsdl:message>
+  <wsdl:message name="BulkSmsSoapOut">
+    <wsdl:part name="parameters" element="tns:BulkSmsResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetMessagesDeliveryBySendIdSoapIn">
+    <wsdl:part name="parameters" element="tns:GetMessagesDeliveryBySendId" />
+  </wsdl:message>
+  <wsdl:message name="GetMessagesDeliveryBySendIdSoapOut">
+    <wsdl:part name="parameters" element="tns:GetMessagesDeliveryBySendIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="AddBlackListSoapIn">
+    <wsdl:part name="parameters" element="tns:AddBlackList" />
+  </wsdl:message>
+  <wsdl:message name="AddBlackListSoapOut">
+    <wsdl:part name="parameters" element="tns:AddBlackListResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetIncomingMessagesSoapIn">
+    <wsdl:part name="parameters" element="tns:GetIncomingMessages" />
+  </wsdl:message>
+  <wsdl:message name="GetIncomingMessagesSoapOut">
+    <wsdl:part name="parameters" element="tns:GetIncomingMessagesResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetIncomingMessagesByCliSoapIn">
+    <wsdl:part name="parameters" element="tns:GetIncomingMessagesByCli" />
+  </wsdl:message>
+  <wsdl:message name="GetIncomingMessagesByCliSoapOut">
+    <wsdl:part name="parameters" element="tns:GetIncomingMessagesByCliResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetMessagesCreditSoapIn">
+    <wsdl:part name="parameters" element="tns:GetMessagesCredit" />
+  </wsdl:message>
+  <wsdl:message name="GetMessagesCreditSoapOut">
+    <wsdl:part name="parameters" element="tns:GetMessagesCreditResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetBlacklistSoapIn">
+    <wsdl:part name="parameters" element="tns:GetBlacklist" />
+  </wsdl:message>
+  <wsdl:message name="GetBlacklistSoapOut">
+    <wsdl:part name="parameters" element="tns:GetBlacklistResponse" />
+  </wsdl:message>
+  <wsdl:message name="SendSmsHttpGetIn">
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="EncryptPassword" type="s:string" />
+    <wsdl:part name="Subscribers" type="s:string" />
+    <wsdl:part name="Message" type="s:string" />
+    <wsdl:part name="SenderName" type="s:string" />
+    <wsdl:part name="DeliveryDelayInMinutes" type="s:string" />
+    <wsdl:part name="ExpirationDelayInMinutes" type="s:string" />
+    <wsdl:part name="SendId" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="SendSmsHttpGetOut">
+    <wsdl:part name="Body" element="tns:Result" />
+  </wsdl:message>
+  <wsdl:message name="GetMessagesDeliveryBySendIdHttpGetIn">
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="EncryptPassword" type="s:string" />
+    <wsdl:part name="SendId" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetMessagesDeliveryBySendIdHttpGetOut">
+    <wsdl:part name="Body" element="tns:Result" />
+  </wsdl:message>
+  <wsdl:message name="AddBlackListHttpGetIn">
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="EncryptPassword" type="s:string" />
+    <wsdl:part name="Subscribers" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="AddBlackListHttpGetOut">
+    <wsdl:part name="Body" element="tns:BlacklistResultStatus" />
+  </wsdl:message>
+  <wsdl:message name="GetIncomingMessagesHttpGetIn">
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="EncryptPassword" type="s:string" />
+    <wsdl:part name="SendDate" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetIncomingMessagesHttpGetOut">
+    <wsdl:part name="Body" element="tns:IncomingResult" />
+  </wsdl:message>
+  <wsdl:message name="GetIncomingMessagesByCliHttpGetIn">
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="EncryptPassword" type="s:string" />
+    <wsdl:part name="SendDate" type="s:string" />
+    <wsdl:part name="Subscriber" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetIncomingMessagesByCliHttpGetOut">
+    <wsdl:part name="Body" element="tns:IncomingResult" />
+  </wsdl:message>
+  <wsdl:message name="GetMessagesCreditHttpGetIn">
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="EncryptPassword" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetMessagesCreditHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="GetBlacklistHttpGetIn">
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="EncryptPassword" type="s:string" />
+    <wsdl:part name="InLastXDays" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetBlacklistHttpGetOut">
+    <wsdl:part name="Body" element="tns:BlacklistResult" />
+  </wsdl:message>
+  <wsdl:message name="SendSmsHttpPostIn">
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="EncryptPassword" type="s:string" />
+    <wsdl:part name="Subscribers" type="s:string" />
+    <wsdl:part name="Message" type="s:string" />
+    <wsdl:part name="SenderName" type="s:string" />
+    <wsdl:part name="DeliveryDelayInMinutes" type="s:string" />
+    <wsdl:part name="ExpirationDelayInMinutes" type="s:string" />
+    <wsdl:part name="SendId" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="SendSmsHttpPostOut">
+    <wsdl:part name="Body" element="tns:Result" />
+  </wsdl:message>
+  <wsdl:message name="GetMessagesDeliveryBySendIdHttpPostIn">
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="EncryptPassword" type="s:string" />
+    <wsdl:part name="SendId" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetMessagesDeliveryBySendIdHttpPostOut">
+    <wsdl:part name="Body" element="tns:Result" />
+  </wsdl:message>
+  <wsdl:message name="AddBlackListHttpPostIn">
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="EncryptPassword" type="s:string" />
+    <wsdl:part name="Subscribers" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="AddBlackListHttpPostOut">
+    <wsdl:part name="Body" element="tns:BlacklistResultStatus" />
+  </wsdl:message>
+  <wsdl:message name="GetIncomingMessagesHttpPostIn">
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="EncryptPassword" type="s:string" />
+    <wsdl:part name="SendDate" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetIncomingMessagesHttpPostOut">
+    <wsdl:part name="Body" element="tns:IncomingResult" />
+  </wsdl:message>
+  <wsdl:message name="GetIncomingMessagesByCliHttpPostIn">
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="EncryptPassword" type="s:string" />
+    <wsdl:part name="SendDate" type="s:string" />
+    <wsdl:part name="Subscriber" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetIncomingMessagesByCliHttpPostOut">
+    <wsdl:part name="Body" element="tns:IncomingResult" />
+  </wsdl:message>
+  <wsdl:message name="GetMessagesCreditHttpPostIn">
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="EncryptPassword" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetMessagesCreditHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="GetBlacklistHttpPostIn">
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="EncryptPassword" type="s:string" />
+    <wsdl:part name="InLastXDays" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetBlacklistHttpPostOut">
+    <wsdl:part name="Body" element="tns:BlacklistResult" />
+  </wsdl:message>
+  <wsdl:portType name="SMSWSSoap">
+    <wsdl:operation name="SendSms">
+      <wsdl:input message="tns:SendSmsSoapIn" />
+      <wsdl:output message="tns:SendSmsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="BulkSms">
+      <wsdl:input message="tns:BulkSmsSoapIn" />
+      <wsdl:output message="tns:BulkSmsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMessagesDeliveryBySendId">
+      <wsdl:input message="tns:GetMessagesDeliveryBySendIdSoapIn" />
+      <wsdl:output message="tns:GetMessagesDeliveryBySendIdSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AddBlackList">
+      <wsdl:input message="tns:AddBlackListSoapIn" />
+      <wsdl:output message="tns:AddBlackListSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetIncomingMessages">
+      <wsdl:input message="tns:GetIncomingMessagesSoapIn" />
+      <wsdl:output message="tns:GetIncomingMessagesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetIncomingMessagesByCli">
+      <wsdl:input message="tns:GetIncomingMessagesByCliSoapIn" />
+      <wsdl:output message="tns:GetIncomingMessagesByCliSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMessagesCredit">
+      <wsdl:input message="tns:GetMessagesCreditSoapIn" />
+      <wsdl:output message="tns:GetMessagesCreditSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetBlacklist">
+      <wsdl:input message="tns:GetBlacklistSoapIn" />
+      <wsdl:output message="tns:GetBlacklistSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="SMSWSHttpGet">
+    <wsdl:operation name="SendSms">
+      <wsdl:input message="tns:SendSmsHttpGetIn" />
+      <wsdl:output message="tns:SendSmsHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMessagesDeliveryBySendId">
+      <wsdl:input message="tns:GetMessagesDeliveryBySendIdHttpGetIn" />
+      <wsdl:output message="tns:GetMessagesDeliveryBySendIdHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AddBlackList">
+      <wsdl:input message="tns:AddBlackListHttpGetIn" />
+      <wsdl:output message="tns:AddBlackListHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetIncomingMessages">
+      <wsdl:input message="tns:GetIncomingMessagesHttpGetIn" />
+      <wsdl:output message="tns:GetIncomingMessagesHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetIncomingMessagesByCli">
+      <wsdl:input message="tns:GetIncomingMessagesByCliHttpGetIn" />
+      <wsdl:output message="tns:GetIncomingMessagesByCliHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMessagesCredit">
+      <wsdl:input message="tns:GetMessagesCreditHttpGetIn" />
+      <wsdl:output message="tns:GetMessagesCreditHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetBlacklist">
+      <wsdl:input message="tns:GetBlacklistHttpGetIn" />
+      <wsdl:output message="tns:GetBlacklistHttpGetOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="SMSWSHttpPost">
+    <wsdl:operation name="SendSms">
+      <wsdl:input message="tns:SendSmsHttpPostIn" />
+      <wsdl:output message="tns:SendSmsHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMessagesDeliveryBySendId">
+      <wsdl:input message="tns:GetMessagesDeliveryBySendIdHttpPostIn" />
+      <wsdl:output message="tns:GetMessagesDeliveryBySendIdHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AddBlackList">
+      <wsdl:input message="tns:AddBlackListHttpPostIn" />
+      <wsdl:output message="tns:AddBlackListHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetIncomingMessages">
+      <wsdl:input message="tns:GetIncomingMessagesHttpPostIn" />
+      <wsdl:output message="tns:GetIncomingMessagesHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetIncomingMessagesByCli">
+      <wsdl:input message="tns:GetIncomingMessagesByCliHttpPostIn" />
+      <wsdl:output message="tns:GetIncomingMessagesByCliHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMessagesCredit">
+      <wsdl:input message="tns:GetMessagesCreditHttpPostIn" />
+      <wsdl:output message="tns:GetMessagesCreditHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetBlacklist">
+      <wsdl:input message="tns:GetBlacklistHttpPostIn" />
+      <wsdl:output message="tns:GetBlacklistHttpPostOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SMSWSSoap" type="tns:SMSWSSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SendSms">
+      <soap:operation soapAction="https://www.simplesms.co.il/webservice/SendSms" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BulkSms">
+      <soap:operation soapAction="https://www.simplesms.co.il/webservice/BulkSms" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetMessagesDeliveryBySendId">
+      <soap:operation soapAction="https://www.simplesms.co.il/webservice/GetMessagesDeliveryBySendId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddBlackList">
+      <soap:operation soapAction="https://www.simplesms.co.il/webservice/AddBlackList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetIncomingMessages">
+      <soap:operation soapAction="https://www.simplesms.co.il/webservice/GetIncomingMessages" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetIncomingMessagesByCli">
+      <soap:operation soapAction="https://www.simplesms.co.il/webservice/GetIncomingMessagesByCli" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetMessagesCredit">
+      <soap:operation soapAction="https://www.simplesms.co.il/webservice/GetMessagesCredit" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBlacklist">
+      <soap:operation soapAction="https://www.simplesms.co.il/webservice/GetBlacklist" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SMSWSSoap12" type="tns:SMSWSSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SendSms">
+      <soap12:operation soapAction="https://www.simplesms.co.il/webservice/SendSms" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BulkSms">
+      <soap12:operation soapAction="https://www.simplesms.co.il/webservice/BulkSms" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetMessagesDeliveryBySendId">
+      <soap12:operation soapAction="https://www.simplesms.co.il/webservice/GetMessagesDeliveryBySendId" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddBlackList">
+      <soap12:operation soapAction="https://www.simplesms.co.il/webservice/AddBlackList" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetIncomingMessages">
+      <soap12:operation soapAction="https://www.simplesms.co.il/webservice/GetIncomingMessages" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetIncomingMessagesByCli">
+      <soap12:operation soapAction="https://www.simplesms.co.il/webservice/GetIncomingMessagesByCli" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetMessagesCredit">
+      <soap12:operation soapAction="https://www.simplesms.co.il/webservice/GetMessagesCredit" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBlacklist">
+      <soap12:operation soapAction="https://www.simplesms.co.il/webservice/GetBlacklist" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SMSWSHttpGet" type="tns:SMSWSHttpGet">
+    <http:binding verb="GET" />
+    <wsdl:operation name="SendSms">
+      <http:operation location="/SendSms" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetMessagesDeliveryBySendId">
+      <http:operation location="/GetMessagesDeliveryBySendId" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddBlackList">
+      <http:operation location="/AddBlackList" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetIncomingMessages">
+      <http:operation location="/GetIncomingMessages" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetIncomingMessagesByCli">
+      <http:operation location="/GetIncomingMessagesByCli" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetMessagesCredit">
+      <http:operation location="/GetMessagesCredit" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBlacklist">
+      <http:operation location="/GetBlacklist" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SMSWSHttpPost" type="tns:SMSWSHttpPost">
+    <http:binding verb="POST" />
+    <wsdl:operation name="SendSms">
+      <http:operation location="/SendSms" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetMessagesDeliveryBySendId">
+      <http:operation location="/GetMessagesDeliveryBySendId" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddBlackList">
+      <http:operation location="/AddBlackList" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetIncomingMessages">
+      <http:operation location="/GetIncomingMessages" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetIncomingMessagesByCli">
+      <http:operation location="/GetIncomingMessagesByCli" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetMessagesCredit">
+      <http:operation location="/GetMessagesCredit" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBlacklist">
+      <http:operation location="/GetBlacklist" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SMSWS">
+    <wsdl:port name="SMSWSSoap" binding="tns:SMSWSSoap">
+      <soap:address location="https://simplesms.co.il/webservice/SmsWS.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SMSWSSoap12" binding="tns:SMSWSSoap12">
+      <soap12:address location="https://simplesms.co.il/webservice/SmsWS.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SMSWSHttpGet" binding="tns:SMSWSHttpGet">
+      <http:address location="https://simplesms.co.il/webservice/SmsWS.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SMSWSHttpPost" binding="tns:SMSWSHttpPost">
+      <http:address location="https://simplesms.co.il/webservice/SmsWS.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

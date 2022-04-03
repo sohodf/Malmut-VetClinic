@@ -68,10 +68,10 @@ namespace Vet_Clinic
 
             else
             {
-                SendSmsWS.SendSmsWS sendSmsWS = new SendSmsWS.SendSmsWS(); // Create new SendSmsWS 
-                Result result = new Result(); // Create new Result 
+                SendSMS22.SMSWS sendSmsWS = new SendSMS22.SMSWS(); // Create new SendSmsWS 
+                SendSMS22.Result result = new SendSMS22.Result(); // Create new Result 
                 result = sendSmsWS.SendSms(utils.smsUser, utils.smsPass, toMobile,
-                                           message, "048444462", 0, 120); // Send sms 
+                                           message, "048444462", 0, 120,"x"); // Send sms 
                 if (result.result == "OK")
                 {
                     MessageBox.Show("ההודעה נשלחה בהצלחה");
@@ -142,19 +142,26 @@ namespace Vet_Clinic
 
         public int GetMessagesCredit()
         {
-            SendSmsWS.SendSmsWS sendSms = new SendSmsWS.SendSmsWS();
-
-            object obj = sendSms.GetMessagesCredit(utils.smsUser, utils.smsPass);
+            //SendSmsWS.SendSmsWS sendSms = new SendSmsWS.SendSmsWS();
+            // object obj = sendSms.GetMessagesCredit(utils.smsUser, utils.smsPass);
+            SendSMS22.SMSWS sendSMS = new SendSMS22.SMSWS();
+            object obj = sendSMS.GetMessagesCredit(utils.smsUser, utils.smsPass);
             int LeftMessgage;
             try
             {
                 LeftMessgage = Convert.ToInt32(obj);
             }
-            catch
+            catch (Exception e) 
             {
                 // Invalid user name or password 
                 LeftMessgage = 0;
-                MessageBox.Show("התרחשה שגיאה");
+                string estring = "";
+                estring += ":התרחשה שגיאה";
+                estring += "\n";
+                estring += e.Message;
+                estring += "\n";
+                estring += "שירות שליחת הודעות אינו זמין";
+                MessageBox.Show(estring);
             }
 
             return LeftMessgage;
@@ -179,6 +186,11 @@ namespace Vet_Clinic
         private void backgroundWorker1_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
         {
             label6.Text = messagesLeft.ToString();
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
         }
 
 

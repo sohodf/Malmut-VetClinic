@@ -549,3 +549,52 @@ D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\bin\Debug\MySql.Web.
 D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
 D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.exe.manifest
 D:\Dropbox\university\Project\Project\Vet Clinic\Vet Clinic\obj\x86\Debug\Vet Clinic.application
+D:\repos\Malmut-VetClinic\bin\Debug\Vet Clinic.exe.config
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet Clinic.exe
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet Clinic.pdb
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.about.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.AddAnimal.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.addCustomer.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.AnesthesiaRpt.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.BloodResults.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.CastrationRpt.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.changeIns.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.DataScripts.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.EditCostumer.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.EnterSMSDate.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.CreateNot.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.CustomerPurchaseRpt.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.DogLicense.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.editAnimal.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.RamatYohananRpt.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.TreatmentHist.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.ViewResults.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.ManageProduct.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.EnterRabiesDates.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.enterVac2.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.EnterVacExpDates.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.EutenasiaemptyRpt.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.healthPackageF.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.kalevetRpt.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.lastVacs.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.licenseRpt.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.ManageVaccines.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.MedFileRpt.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.Properties.Resources.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.PurchaseDateRpt.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.SmsDist.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.SMSSend.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Project1.Start.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.VaccineExpRpt.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet_Clinic.viewVac.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Project1.Start.he-IL.resources
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet Clinic.csproj.GenerateResource.Cache
+D:\repos\Malmut-VetClinic\bin\Debug\Vet Clinic.exe.manifest
+D:\repos\Malmut-VetClinic\bin\Debug\Vet Clinic.application
+D:\repos\Malmut-VetClinic\bin\Debug\Vet Clinic.exe
+D:\repos\Malmut-VetClinic\bin\Debug\Vet Clinic.pdb
+D:\repos\Malmut-VetClinic\bin\Debug\he-IL\Vet Clinic.resources.dll
+D:\repos\Malmut-VetClinic\obj\x86\Debug\he-IL\Vet Clinic.resources.dll
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet Clinic.exe.manifest
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet Clinic.application
+D:\repos\Malmut-VetClinic\obj\x86\Debug\Vet Clinic.csprojResolveAssemblyReference.cache

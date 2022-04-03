@@ -33,9 +33,9 @@ namespace Vet_Clinic
 
         public int GetMessagesCredit()
         {
-            SendSmsWS.SendSmsWS sendSms = new SendSmsWS.SendSmsWS();
+            SendSMS22.SMSWS sendSMS = new SendSMS22.SMSWS();
 
-            object obj = sendSms.GetMessagesCredit(utils.smsUser, utils.smsPass);
+            object obj = sendSMS.GetMessagesCredit(utils.smsUser, utils.smsPass);
             int LeftMessgage;
             try
             {

@@ -1,4 +1,7 @@
-﻿namespace Vet_Clinic {
+﻿namespace Vet_Clinic
+{
+}
+namespace Vet_Clinic {
     
     
     public partial class vetclinicDataSet {
