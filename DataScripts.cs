@@ -58,13 +58,6 @@ namespace Vet_Clinic
         }
 
 
-
-        private void DataScripts_Load(object sender, EventArgs e)
-        {
-            
-
-        }
-
         // הוספת אפסים
         private void button2_Click(object sender, EventArgs e)
         {

@@ -9,14 +9,19 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using Vet_Clinic.SendSmsWS;
+using System.Security.Authentication;
+using System.Net;
 
 namespace Vet_Clinic
 {
     public partial class SmsDist : Form
     {
+
         private int leftmessages = 0;
         vetclinicDataSet.GetDataForReminderDataTable dt = new vetclinicDataSet.GetDataForReminderDataTable();
         private string sendLog;
+        public const SslProtocols _Tls12 = (SslProtocols)0x00000C00;
+        public const SecurityProtocolType Tls12 = (SecurityProtocolType)_Tls12;
         
 
         public SmsDist()
@@ -194,10 +199,11 @@ namespace Vet_Clinic
         public Boolean SendSms(string toMobile, string message)
         {
 
-            SendSmsWS.SendSmsWS sendSmsWS = new SendSmsWS.SendSmsWS(); // Create new SendSmsWS 
-            Result result = new Result(); // Create new Result 
+            SendSMS22.SMSWS sendSmsWS = new SendSMS22.SMSWS(); // Create new SendSmsWS 
+            SendSMS22.Result result = new SendSMS22.Result(); // Create new Result 
+            ServicePointManager.SecurityProtocol = Tls12;
             result = sendSmsWS.SendSms(utils.smsUser, utils.smsPass, toMobile,
-                                        message, "048444462", 0, 120); // Send sms 
+                                       message, "048444462", 0, 120, "x"); // Send sms 
             System.Threading.Thread.Sleep(100);
             if (result.result == "OK")
             {

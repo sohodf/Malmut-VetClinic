@@ -971,9 +971,6 @@ namespace Project1
 
         private void מחיקתתיקלקוחToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
-
-
             if (label63.Text == "לא נבחר לקוח")
             {
                 MessageBox.Show("חובה לבחור לקוח", "שגיאה", MessageBoxButtons.OK, MessageBoxIcon.Error);

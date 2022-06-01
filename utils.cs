@@ -14,7 +14,7 @@ namespace Vet_Clinic
         public const string MyConString = "Server=localhost;Port=3306;Database=vetclinic;Uid=root;Pwd=123456;";
 
         //gadi
-        public const string crys = "C:\\Dropbox\\Project\\Project\\Vet Clinic\\Vet Clinic\\";
+        //public const string crys = "C:\\Dropbox\\Project\\Project\\Vet Clinic\\Vet Clinic\\";
         //david
         //public const string crys = "C:\\Users\\David\\Desktop\\Dropbox\\University\\Project\\Project\\Vet Clinic\\Vet Clinic\\";
         //david laptop
@@ -22,7 +22,7 @@ namespace Vet_Clinic
         //Aguda
         //public const string crys = "C:\\Documents and Settings\\BAKARA\\Desktop\\Dropbox\\University\\Project\\Project\\Vet Clinic\\Vet Clinic\\";
         //merav
-        //public const string crys = "C:\\reports\\";
+        public const string crys = "C:\\reports\\";
         
         //שם משתמש וססמא עבור שליחת סמסים
         public const string smsUser = "meiravet";

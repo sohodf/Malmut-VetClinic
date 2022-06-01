@@ -140,7 +140,6 @@
             this.RightToLeftLayout = true;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "סקריפטים לטיפול במסד נתונים";
-            this.Load += new System.EventHandler(this.DataScripts_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.vetclinicDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblcustomerBindingSource)).EndInit();

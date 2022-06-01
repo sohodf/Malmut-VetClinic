@@ -8,6 +8,9 @@ using System.Text;
 using System.Windows.Forms;
 using System.Text.RegularExpressions;
 using Vet_Clinic.SendSmsWS;
+using System.Net;
+using System.Security.Authentication;
+
 
 namespace Vet_Clinic
 {
@@ -19,6 +22,8 @@ namespace Vet_Clinic
         public static int smsCharecters = 70;
         public static int phoneLength = 10;
         private int messagesLeft;
+        public const SslProtocols _Tls12 = (SslProtocols)0x00000C00;
+        public const SecurityProtocolType Tls12 = (SecurityProtocolType)_Tls12;
         
         //שליחה ללקוח פעיל
         public SMSSend(int custNum, string custPhone)
@@ -70,6 +75,7 @@ namespace Vet_Clinic
             {
                 SendSMS22.SMSWS sendSmsWS = new SendSMS22.SMSWS(); // Create new SendSmsWS 
                 SendSMS22.Result result = new SendSMS22.Result(); // Create new Result 
+                ServicePointManager.SecurityProtocol = Tls12;
                 result = sendSmsWS.SendSms(utils.smsUser, utils.smsPass, toMobile,
                                            message, "048444462", 0, 120,"x"); // Send sms 
                 if (result.result == "OK")
@@ -86,7 +92,7 @@ namespace Vet_Clinic
                 }
 
 
-            }
+             }
 
         }
 
@@ -144,14 +150,16 @@ namespace Vet_Clinic
         {
             //SendSmsWS.SendSmsWS sendSms = new SendSmsWS.SendSmsWS();
             // object obj = sendSms.GetMessagesCredit(utils.smsUser, utils.smsPass);
-            SendSMS22.SMSWS sendSMS = new SendSMS22.SMSWS();
-            object obj = sendSMS.GetMessagesCredit(utils.smsUser, utils.smsPass);
-            int LeftMessgage;
+            SendSMS22.SMSWS sendSmsWS = new SendSMS22.SMSWS(); // Create new SendSmsWS 
+            ServicePointManager.SecurityProtocol = Tls12;
+            int LeftMessgage = 0;
             try
             {
+                object obj = sendSmsWS.GetMessagesCredit(utils.smsUser, utils.smsPass);
                 LeftMessgage = Convert.ToInt32(obj);
             }
-            catch (Exception e) 
+
+            catch (Exception e)
             {
                 // Invalid user name or password 
                 LeftMessgage = 0;
@@ -165,6 +173,11 @@ namespace Vet_Clinic
             }
 
             return LeftMessgage;
+        }
+
+        public int GetMessagesCredit_new()
+        {
+            return 0;
         }
 
         public void UpdateCredits()
