@@ -202,8 +202,23 @@ namespace Vet_Clinic
             SendSMS22.SMSWS sendSmsWS = new SendSMS22.SMSWS(); // Create new SendSmsWS 
             SendSMS22.Result result = new SendSMS22.Result(); // Create new Result 
             ServicePointManager.SecurityProtocol = Tls12;
-            result = sendSmsWS.SendSms(utils.smsUser, utils.smsPass, toMobile,
-                                       message, "048444462", 0, 120, "x"); // Send sms 
+            try
+            {
+                result = sendSmsWS.SendSms(utils.smsUser, utils.smsPass, toMobile,
+                                           message, "048444462", 0, 120, "x"); // Send sms 
+            }
+            catch (Exception e)
+            {
+                // Invalid user name or password 
+                string estring = "";
+                estring += ":התרחשה שגיאה";
+                estring += "\n";
+                estring += e.Message;
+                estring += "\n";
+                estring += "שירות שליחת הודעות אינו זמין";
+                MessageBox.Show(estring);
+            }
+
             System.Threading.Thread.Sleep(100);
             if (result.result == "OK")
             {
